@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\erik\\desktop\\vs failid kippar\\veeb\\controllers\\toodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:controllers\\toodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\erik\\desktop\\vs failid kippar\\veeb\\models\\kasutaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\administrator\\documents\\programming\\github repos\\sa1tamaman\\veebiprojekt\\veeb\\models\\kasutaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:models\\kasutaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\erik\\desktop\\vs failid kippar\\veeb\\models\\toode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\administrator\\documents\\programming\\github repos\\sa1tamaman\\veebiprojekt\\veeb\\controllers\\toodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:controllers\\toodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\administrator\\documents\\programming\\github repos\\sa1tamaman\\veebiprojekt\\veeb\\models\\toode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:models\\toode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\erik\\desktop\\vs failid kippar\\veeb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\administrator\\documents\\programming\\github repos\\sa1tamaman\\veebiprojekt\\veeb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\erik\\desktop\\vs failid kippar\\veeb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\administrator\\documents\\programming\\github repos\\sa1tamaman\\veebiprojekt\\veeb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\erik\\desktop\\vs failid kippar\\veeb\\controllers\\primitiividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|c:\\users\\administrator\\documents\\programming\\github repos\\sa1tamaman\\veebiprojekt\\veeb\\controllers\\primitiividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A38A6E0-99B7-4500-BE7C-FE437CCBD4CD}|veeb.csproj|solutionrelative:controllers\\primitiividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ToodeController.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Controllers\\ToodeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Controllers\\ToodeController.cs",
               "RelativeDocumentMoniker": "Controllers\\ToodeController.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Controllers\\ToodeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Controllers\\ToodeController.cs",
               "RelativeToolTip": "Controllers\\ToodeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Kasutaja.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Models\\Kasutaja.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Models\\Kasutaja.cs",
               "RelativeDocumentMoniker": "Models\\Kasutaja.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Models\\Kasutaja.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Models\\Kasutaja.cs",
               "RelativeToolTip": "Models\\Kasutaja.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T18:12:18.321Z",
               "EditorCaption": ""
@@ -66,53 +66,49 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Toode.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Models\\Toode.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Models\\Toode.cs",
               "RelativeDocumentMoniker": "Models\\Toode.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Models\\Toode.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Models\\Toode.cs",
               "RelativeToolTip": "Models\\Toode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T18:06:36.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T18:06:36.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PrimitiividController.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Controllers\\PrimitiividController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Controllers\\PrimitiividController.cs",
               "RelativeDocumentMoniker": "Controllers\\PrimitiividController.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Controllers\\PrimitiividController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Controllers\\PrimitiividController.cs",
               "RelativeToolTip": "Controllers\\PrimitiividController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T13:01:45.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T13:01:45.35Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T12:37:21.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T12:37:21.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\VS failid kippar\\veeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Programming\\Github Repos\\sa1tamaman\\Veebiprojekt\\veeb\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-29T12:33:52.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T12:33:52.824Z"
             }
           ]
         }

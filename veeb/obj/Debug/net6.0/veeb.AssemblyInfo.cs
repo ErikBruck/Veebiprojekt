@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("veeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dbb4cdc58674202048ae1fba0732a410e928906")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d5eee4f75fa0700cbbdfec021bd5c1e8381cfda")]
 [assembly: System.Reflection.AssemblyProductAttribute("veeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("veeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
